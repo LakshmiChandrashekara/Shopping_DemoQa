@@ -1,0 +1,93 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 7, Errors: 0, Skipped: 0, Time elapsed: 95.182 s <<< FAILURE! - in TestSuite
+isProductDisplayedTest(com.atmecs.demoqa.testscrpits.HomePageTest)  Time elapsed: 0.197 s  <<< FAILURE!
+org.openqa.selenium.InvalidSelectorException: 
+invalid selector: Unable to locate an element with the xpath expression PINK DROP SHOULDER OVERSIZED T SHIRT because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string 'PINK DROP SHOULDER OVERSIZED T SHIRT' is not a valid XPath expression.
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'ATMECSINDT-066', ip: '192.168.43.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 75.0.3770.140 (2d9f97485c7b..., userDataDir: C:\Users\Lakshmi.RC\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:54379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eed614d755ecdff3f993e36e0f4cb884
+*** Element info: {Using=xpath, value=PINK DROP SHOULDER OVERSIZED T SHIRT}
+	at com.atmecs.demoqa.testscrpits.HomePageTest.isProductDisplayedTest(HomePageTest.java:50)
+
+isProductDisplayedTest(com.atmecs.demoqa.testscrpits.HomePageTest)  Time elapsed: 0.158 s  <<< FAILURE!
+org.openqa.selenium.InvalidSelectorException: 
+invalid selector: Unable to locate an element with the xpath expression PLAYBOY X MISSGUIDED PLUS SIZE GREY LIPS PRINT FRONT CROPPED T SHIRT because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string 'PLAYBOY X MISSGUIDED PLUS SIZE GREY LIPS PRINT FRONT CROPPED T SHIRT' is not a valid XPath expression.
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'ATMECSINDT-066', ip: '192.168.43.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 75.0.3770.140 (2d9f97485c7b..., userDataDir: C:\Users\Lakshmi.RC\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:54379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eed614d755ecdff3f993e36e0f4cb884
+*** Element info: {Using=xpath, value=PLAYBOY X MISSGUIDED PLUS SIZE GREY LIPS PRINT FRONT CROPPED T SHIRT}
+	at com.atmecs.demoqa.testscrpits.HomePageTest.isProductDisplayedTest(HomePageTest.java:50)
+
+isProductDisplayedTest(com.atmecs.demoqa.testscrpits.HomePageTest)  Time elapsed: 0.143 s  <<< FAILURE!
+org.openqa.selenium.InvalidSelectorException: 
+invalid selector: Unable to locate an element with the xpath expression BLACK LUX GRAPHIC T-SHIRT because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string 'BLACK LUX GRAPHIC T-SHIRT' is not a valid XPath expression.
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'ATMECSINDT-066', ip: '192.168.43.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 75.0.3770.140 (2d9f97485c7b..., userDataDir: C:\Users\Lakshmi.RC\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:54379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eed614d755ecdff3f993e36e0f4cb884
+*** Element info: {Using=xpath, value=BLACK LUX GRAPHIC T-SHIRT}
+	at com.atmecs.demoqa.testscrpits.HomePageTest.isProductDisplayedTest(HomePageTest.java:50)
+
+isProductDisplayedTest(com.atmecs.demoqa.testscrpits.HomePageTest)  Time elapsed: 0.129 s  <<< FAILURE!
+org.openqa.selenium.InvalidSelectorException: 
+invalid selector: Unable to locate an element with the xpath expression TOKYO TALKIES because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string 'TOKYO TALKIES' is not a valid XPath expression.
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'ATMECSINDT-066', ip: '192.168.43.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 75.0.3770.140 (2d9f97485c7b..., userDataDir: C:\Users\Lakshmi.RC\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:54379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eed614d755ecdff3f993e36e0f4cb884
+*** Element info: {Using=xpath, value=TOKYO TALKIES}
+	at com.atmecs.demoqa.testscrpits.HomePageTest.isProductDisplayedTest(HomePageTest.java:50)
+
+isProductDisplayedTest(com.atmecs.demoqa.testscrpits.HomePageTest)  Time elapsed: 0.137 s  <<< FAILURE!
+org.openqa.selenium.InvalidSelectorException: 
+invalid selector: Unable to locate an element with the xpath expression BLACK CROSS BACK MAXI DRESS because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string 'BLACK CROSS BACK MAXI DRESS' is not a valid XPath expression.
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'ATMECSINDT-066', ip: '192.168.43.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 75.0.3770.140 (2d9f97485c7b..., userDataDir: C:\Users\Lakshmi.RC\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:54379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eed614d755ecdff3f993e36e0f4cb884
+*** Element info: {Using=xpath, value=BLACK CROSS BACK MAXI DRESS}
+	at com.atmecs.demoqa.testscrpits.HomePageTest.isProductDisplayedTest(HomePageTest.java:50)
+
+isProductDisplayedTest(com.atmecs.demoqa.testscrpits.HomePageTest)  Time elapsed: 0.147 s  <<< FAILURE!
+org.openqa.selenium.InvalidSelectorException: 
+invalid selector: Unable to locate an element with the xpath expression RED SATIN ROUND NECK BACKLESS MAXI DRESS because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string 'RED SATIN ROUND NECK BACKLESS MAXI DRESS' is not a valid XPath expression.
+  (Session info: chrome=76.0.3809.132)
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
+System info: host: 'ATMECSINDT-066', ip: '192.168.43.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '12.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 75.0.3770.140 (2d9f97485c7b..., userDataDir: C:\Users\Lakshmi.RC\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:54379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: eed614d755ecdff3f993e36e0f4cb884
+*** Element info: {Using=xpath, value=RED SATIN ROUND NECK BACKLESS MAXI DRESS}
+	at com.atmecs.demoqa.testscrpits.HomePageTest.isProductDisplayedTest(HomePageTest.java:50)
+
+navigateAndFilterBasedOnRange(com.atmecs.demoqa.testscrpits.ProductColorAndRangeFilterTest)  Time elapsed: 13.335 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Data Provider public java.lang.Object[][] com.atmecs.demoqa.testscrpits.ProductColorAndRangeFilterTest.getProductData() returned a null value
+

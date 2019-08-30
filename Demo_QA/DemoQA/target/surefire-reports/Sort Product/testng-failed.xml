@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sort Product]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Sort Product test(failed)" verbose="0">
+    <classes>
+      <class name="com.atmecs.demoqa.testscrpits.ProductColorAndRangeFilterTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="navigateAndFilterBasedOnRange"/>
+        </methods>
+      </class> <!-- com.atmecs.demoqa.testscrpits.ProductColorAndRangeFilterTest -->
+    </classes>
+  </test> <!-- Sort Product test(failed) -->
+</suite> <!-- Failed suite [Sort Product] -->

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Product Page]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Product page test(failed)" verbose="0">
+    <classes>
+      <class name="com.atmecs.demoqa.testscrpits.ProductPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="navigateAndFilter" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.atmecs.demoqa.testscrpits.ProductPageTest -->
+    </classes>
+  </test> <!-- Product page test(failed) -->
+</suite> <!-- Failed suite [Product Page] -->
